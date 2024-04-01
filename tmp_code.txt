@@ -1,0 +1,28 @@
+int program(int a,int b,int c)
+{
+int i;
+int j;
+i=0;
+if(a>(b+c))
+{
+int j;
+int h;
+j=a+(b*c+1);
+if(a>(b+c))
+{
+int j;
+}
+}
+else
+{
+int j;
+j=a;
+}
+while(i<=100)
+{
+int k;
+int a;
+a = i + j;
+i=j*2;
+}
+return i; }
