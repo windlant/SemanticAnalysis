@@ -1,5 +1,4 @@
-源代码在源代码文件夹中
-a.txt是一个临时文件用于浏览本地文件，不用管
+a.txt是一个临时文件用于浏览本地文件
 SemanticAnalysis.exe为语法分析器可执行文件
 TestCode.txt是测试代码
-tmp_code.txt是临时文件，不用管
+tmp_code.txt是临时文件
